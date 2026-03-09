@@ -25,7 +25,7 @@
            playsinline
            preload="metadata">
 
-        <source src="{{ asset('videos/output_full1.mp4') }}" type="video/mp4">
+        <source src="{{ asset('videos/intro.mp4') }}" type="video/mp4">
     </video>
 
     {{-- Delikatna nakładka --}}
